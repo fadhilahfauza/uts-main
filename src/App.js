@@ -8,7 +8,7 @@ const products = [
   {
     id: 1,
     name: "Melon",
-    rating: 4.2,
+    rating: 4.2, 
     description:
       "Melon mengandung antioksidan seperti beta-karoten dan likopen, yang dapat membantu melindungi sel-sel tubuh dari kerusakan akibat radikal bebas.",
     price: 18000,
